@@ -1,0 +1,6 @@
+France aeo1 aeo2
+Algerie aeo3 aeo4
+Allemagne aeo5 aeo6
+Turquie aeo7 aeo8
+Tunisie aeo9 aeo10
+Maroc aeo11 aeo12
